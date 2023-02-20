@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+h1{
+    font-size: 90px;
+    color: aquamarine;
+    font-style: italic;
+}
+h3{
+    font-size: 50px;
+    color: cyan;
+    font-style: italic;
+}
+#a1 {
+    color: lightcoral;
+}
+#a2 {
+    color: lightgreen;
+}
